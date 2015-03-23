@@ -1,0 +1,2 @@
+# jsplate
+Javascript Boilerplate
