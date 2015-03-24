@@ -9,11 +9,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-babel": "^4.0.0",
-    "browserify": "^9.0.3",
     "babelify": "^5.0.4",
-    "through2": "^0.6.3"
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
     "config": "^1.12.0",
