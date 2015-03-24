@@ -12,7 +12,8 @@
     "babelify": "^5.0.4",
     "browserify": "^9.0.3",
     "gulp": "^3.8.11",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^1.1.0",
+    "browser-sync": "~2.4.0"
   },
   "dependencies": {
     "config": "^1.12.0",
