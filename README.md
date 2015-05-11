@@ -1,4 +1,3 @@
 # jsplate
 Javascript Boilerplate
-With React JS
-and Babel
+With React JS, Babel and ES6
